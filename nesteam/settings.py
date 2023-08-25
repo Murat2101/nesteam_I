@@ -44,9 +44,9 @@ INSTALLED_APPS = [
     'django_filters',
     'rest_framework.authtoken',
 
-    'collection',
-    'games',
     'usersapp',
+    'games',
+    'collection',
 ]
 
 MIDDLEWARE = [
